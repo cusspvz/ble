@@ -3,7 +3,7 @@ package darwin
 import (
 	"fmt"
 
-	"github.com/go-ble/ble"
+	"github.com/cusspvz/ble"
 	"github.com/raff/goble/xpc"
 )
 
