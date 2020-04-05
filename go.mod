@@ -3,7 +3,6 @@ module github.com/cusspvz/ble
 go 1.13
 
 require (
-	github.com/go-ble/ble v0.0.0-00010101000000-000000000000 // indirect
 	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/mgutz/logxi v0.0.0-20161027140823-aebf8a7d67ab
 	github.com/pkg/errors v0.8.1
